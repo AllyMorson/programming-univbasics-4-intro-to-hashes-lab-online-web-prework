@@ -10,6 +10,7 @@ end
 
 def pioneer
   {:name => "Grace Hopper"}
+  pets["cat"]
 end
 
 def id_generator
