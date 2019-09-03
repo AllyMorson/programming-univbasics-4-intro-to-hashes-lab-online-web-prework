@@ -10,7 +10,7 @@ end
 
 def pioneer
   {:name => "Grace Hopper"}
-  pioneer["cat"]
+  pioneer["name"]
 end
 
 def id_generator
