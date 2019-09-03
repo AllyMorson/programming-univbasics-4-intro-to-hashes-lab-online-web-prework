@@ -14,7 +14,7 @@ def pioneer
   pioneer["name"]
 end
 
-def id_generator = {1 => "learn to garden", 2 => "plant seeds", 10 => "eat vegetables"}
+def id_generator = {:apples => 10, :pears => 4, :peaches => 2, :plums => 13}
  
 id_generator [10]
 end
