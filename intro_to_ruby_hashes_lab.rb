@@ -14,8 +14,9 @@ def pioneer
   pioneer["name"]
 end
 
-def id_generator
-  # return a hash with a key :id assigned to positive integer
+def id_generator = {1 => "learn to garden", 2 => "plant seeds", 10 => "eat vegetables"}
+ 
+id_generator [10]
 end
 
 def my_hash_creator(key, value)
