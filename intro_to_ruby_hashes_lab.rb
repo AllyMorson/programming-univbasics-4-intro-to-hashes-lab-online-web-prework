@@ -16,7 +16,7 @@ end
 
 def id_generator = {:apples => 10, :pears => 4, :peaches => 2, :plums => 13}
  
-id_generator [10]
+id_generator [apples]
 end
 
 def my_hash_creator(key, value)
